@@ -1,5 +1,6 @@
 # learning
 Learning for humans
+[Notion node](https://www.notion.so/Learning-d873fd2446df41a68d27261bc4af0ce6?pvs=4)
 
 This includes:
 1. How to learn
